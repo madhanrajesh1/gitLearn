@@ -1,2 +1,2 @@
 console.log("hello");
-console.log('learning git ')
+console.log('react');
